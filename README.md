@@ -46,8 +46,8 @@ A Streamlit-based application that enables users to analyze and query multiple n
     GOOGLE_API_KEY=your_google_api_key_here
     ```
 
-    Getting API Keys:
-    Groq API: Sign up at console.groq.com
+    Getting API Keys:  
+    Groq API: Sign up at console.groq.com  
     Google API: Get your key from Google AI Studio
 
 
@@ -73,9 +73,9 @@ A Streamlit-based application that enables users to analyze and query multiple n
         - Save to FAISS index
 
 3. Ask Questions
-- Enter your question in the text input field
-- Click "Search" to get answers
-- View the answer
+    - Enter your question in the text input field
+    - Click "Search" to get answers
+    - View the answer
 
 
 ### Sample URLS:
