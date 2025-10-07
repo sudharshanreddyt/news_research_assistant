@@ -1,0 +1,12 @@
+langchain
+langchain-community
+unstructured
+langchain-text-splitters
+tiktoken
+faiss-cpu
+sentence-transformers
+pandas
+langchain[groq]
+streamlit
+python-dotenv
+langchain-google-genai
