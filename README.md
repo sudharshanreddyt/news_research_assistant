@@ -56,10 +56,9 @@ A Streamlit-based application that enables users to analyze and query multiple n
     streamlit run main.py
     ```  
 ### Running the Application
-    ```bash
-    streamlit run main.py
-    ```  
-    
+```bash
+streamlit run main.py
+```  
 
 The application will open in your default web browser at http://localhost:8501
 
